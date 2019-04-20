@@ -1,0 +1,2 @@
+JAVA_HOME=/usr/java/jvm/jdk1.8.0_171
+PATH=$JAVA_HOME/bin:/usr/bin/:/sbin:/bin:/usr/sbin:/usr/bin
